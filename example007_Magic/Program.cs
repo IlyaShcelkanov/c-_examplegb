@@ -9,7 +9,7 @@ int xa = 1, ya = 1,
 Console.SetCursorPosition(xa, ya);
 Console.WriteLine("+");
 
-Console.SetCursorPosition(1, 30);
+Console.SetCursorPosition(xb, yb);
 Console.WriteLine("+");
 
 Console.SetCursorPosition(xc, yc);
